@@ -250,5 +250,20 @@ Abaixo existe uma breve descrição do roteiro da construção de um simples pro
 
 
 
+
+<h3>Deploy em produção do cliente Angular</h3>
+<ol>
+
+<li>16.1. Configurando e fazendo build por tipo de ambiente</li>
+<li>16.2. Respondendo requisições com Node.js e Express</li>
+<li>16.3. Fazendo deploy no Heroku</li>
+<li>16.4. Conclusão do projeto</li>
+</ol>
+
+
+
+
+
+
 </body>
 </html>
