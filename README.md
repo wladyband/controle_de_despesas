@@ -173,7 +173,7 @@ Abaixo existe uma breve descrição do roteiro da construção de um simples pro
 <li>11.3. Passando valores com @Input</li>
 <li>11.4. Passando eventos com @Output e EventEmitter</li>
 <li>11.5. Respondendo as interações dos usuários</li>
-<li>11.6. Criando diretivas/li>
+<li>11.6. Criando diretivas</li>
 <li>11.7. Respondendo a eventos de usuários com @HostListener</li>
 <li>11.8. Usando @HostBinding</li>
 <li>11.9. Manipulando o Template e DOM com @ViewChild</li>
