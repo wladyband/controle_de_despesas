@@ -1,8 +1,10 @@
 
 
-## About Laravel
+## Descrição do projeto Spring Boot
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+
+Abaixo existe uma breve descrição do roteiro da construção de um simples projeto, no qual se trata de um sistema de controle de despesas e receitas genéricas. 
+
 
 <html>
 <head>
