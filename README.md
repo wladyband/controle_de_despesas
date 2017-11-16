@@ -161,7 +161,7 @@ Abaixo existe uma breve descrição do roteiro da construção de um simples pro
 <li>10.4. Organizando o projeto em Feature Modules</li>
 <li>10.5. Tabela de dados do PrimeNG</li>
 <li>10.6. Fazendo paginação de dados</li>
-<li>10.7. Desafio: criando página de pesquisa de pessoa</li>
+<li>10.7. criando página de pesquisa de pessoa</li>
 </ol>
 
 
@@ -182,29 +182,71 @@ Abaixo existe uma breve descrição do roteiro da construção de um simples pro
 
 
 
-
-
-
-
-
-<h3>Segurança da API</h3>
+<h3>Formulários e página de cadastro</h3>
 <ol>
 
-<li>6.1. Implementando autenticação BASIC</li>
-<li>6.2. Fluxo básico do OAuth</li>
-<li>6.3. Implementando a segurança com OAuth 2</li>
-<li>6.4. JSON Web Tokens - JWT</li>
-<li>6.5. Configurando JWT no projeto</li>
-<li>6.6. Renovando o access token com o refresh token</li>
-<li>6.7. Movendo o refresh token para o cookie</li>
-<li>6.8. Movendo o refresh token do cookie para a requisição</li>
-<li>6.9. O que é CORS?</li>
-<li>6.10. Criando filtro para CORS</li>
-<li>6.11. Movendo o usuário para o banco de dados</li>
-<li>6.12. Adicionando permissões de acesso</li>
-<li>6.13. Finalizando permissões de acesso</li>
-<li>6.14. Implementando o logout</li>
+<li>12.1. Criando o protótipo da página de cadastro de lançamentos</li>
+<li>12.2. Criando formulários (Template-driven forms)</li>
+<li>12.3. Adicionando campos com máscara</li>
+<li>12.4. Adicionando campos monetários (decimal)</li>
+<li>12.5. Adicionando campos de datas (Date Picker)</li>
+<li>12.6. Adicionando caixas de seleção</li>
+<li>12.7. Validando formulários</li>
+<li>12.8. Criando a página de cadastro de pesso</li>
 </ol>
+
+
+
+<h3>Serviços, injeção de dependências e HTTP</h3>
+<ol>
+
+<li>13.1. Introdução aos serviços</li>
+<li>13.2. O que é injeção de dependências?</li>
+<li>13.3. Injetando dependências com Angular</li>
+<li>13.4. Fazendo chamadas HTTP (GET, POST, PUT e DELETE)</li>
+<li>13.5. Tratando erros HTTP</li>
+<li>13.6. Implementando os serviços do projeto</li>
+<li>13.7. Implementando serviço</li>
+</ol>
+
+
+
+
+<h3>Roteamento e navegação</h3>
+<ol>
+
+<li>14.1. Introdução a rotas e SPA (Single Page Application)</li>
+<li>14.2. Configurando rotas na aplicação</li>
+<li>14.3. Navegando com RouterLink</li>
+<li>14.4. Recebendo parâmetros da rota</li>
+<li>14.5. Fazendo roteamento imperativo</li>
+<li>14.6. Criando um módulos de rotas (Routing Module)</li>
+<li>14.7. Fazendo redirecionamento</li>
+<li>14.8. Tratando rota não encontrada</li>
+<li>14.9. Carregamento de módulos por demanda (lazy loading)</li>
+<li>14.10. Definindo o título da página dinamicamente</li>
+<li>14.11. Implementando roteamento</li>
+</ol>
+
+
+<h3>Segurança do front-end</h3>
+<ol>
+
+<li>15.1. Introdução à segurança do front-end</li>
+<li>15.2. Criando o protótipo da tela de login</li>
+<li>15.3. Implementando o serviço de autenticação com OAuth 2 e JWT</li>
+<li>15.4. Recebendo o JWT (JSON Web Token)</li>
+<li>15.5. Exibindo o nome do usuário logado</li>
+<li>15.6. Implementando o logout</li>
+<li>15.7. Exibindo o menu do sistema conforme permissões do usuário</li>
+<li>15.8. Protegendo componentes</li>
+<li>15.9. Introdução a guarda de rotas</li>
+<li>15.10. Protegendo rotas com CanActivate</li>
+<li>15.11. Renovando o access token</li>
+<li>15.12. Implementando a segurança de pessoas</li>
+</ol>
+
+
 
 
 
