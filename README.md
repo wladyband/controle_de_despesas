@@ -24,7 +24,28 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 <li>1.6. Ambiente de desenvolvimento REST</li>
 <li>1.7. Testando APIs com Postman</li>
 <li>1.8. Introdução ao protocolo HTTP</li>
+
 </ol>
+
+
+<h3>Fundamentos do REST</h3>
+<ol>
+
+<li>2.1. O que é um recurso?</li>
+<li>2.3. Modelo de maturidade Richardson - O nível 0</li>
+<li>2.4. Modelo de maturidade Richardson - O nível 1</li>
+<li>2.5. Modelo de maturidade Richardson - O nível 2</li>
+<li>.6. Modelo de maturidade Richardson - O nível 3</li>
+<li>2.7. HATEOAS</li>
+<li>.8. Segurança de APIs REST</li>
+<li>2.9. Idempotência</li>
+
+</ol>
+
+
+
+
+
 
 </body>
 </html>
