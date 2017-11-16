@@ -1,8 +1,4 @@
-<style>
-#obs {
-    float: right;
-}
-</style>
+
 
 ## Descrição do projeto Spring Boot
 
