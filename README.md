@@ -6,7 +6,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 <html>
 <head>
-<title>Listas em HTML</title>
+
 </head>
 
 <body>
